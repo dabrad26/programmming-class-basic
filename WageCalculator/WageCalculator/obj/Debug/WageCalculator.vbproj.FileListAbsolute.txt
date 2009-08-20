@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.WageCalculatorForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb

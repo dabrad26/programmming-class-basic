@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculatorForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

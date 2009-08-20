@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\bin\Debug\Inventory3.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\bin\Debug\Inventory3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\bin\Debug\Inventory3.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\Inventory3.InventoryForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\Inventory3.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\InventoryTutorial6.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\Inventory3.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\Inventory3.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\InventoryTutorial6\Inventory3\obj\Debug\Inventory3.pdb

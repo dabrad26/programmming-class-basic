@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\bin\Debug\AverageDebugging.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\bin\Debug\AverageDebugging.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\bin\Debug\AverageDebugging.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageDebugging.AverageForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageDebugging.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageThreeNumbers.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageDebugging.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageDebugging.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\AverageThreeNumbers\AverageDebugging\obj\Debug\AverageDebugging.pdb

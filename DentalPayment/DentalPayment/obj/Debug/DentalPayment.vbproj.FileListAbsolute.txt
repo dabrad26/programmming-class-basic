@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\bin\Debug\DentalPayment.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\bin\Debug\DentalPayment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\bin\Debug\DentalPayment.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.DentalPaymentForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DentalPayment\DentalPayment\obj\Debug\DentalPayment.pdb

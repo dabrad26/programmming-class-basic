@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\bin\Debug\Crystal Report.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\bin\Debug\Crystal Report.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\bin\Debug\Crystal Report.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal_Report.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal_Report.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal Report.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal Report.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal Report.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Crystal Report\Crystal Report\obj\Debug\Crystal Report.pdb

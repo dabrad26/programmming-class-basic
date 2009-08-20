@@ -1,0 +1,20 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\bin\Debug\Counter.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\bin\Debug\Counter.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\bin\Debug\Counter.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.CounterForm.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Counter\obj\Debug\Counter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\bin\Debug\Counter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.CounterForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Counter\Counter\obj\Debug\Counter.vbproj.GenerateResource.Cache
